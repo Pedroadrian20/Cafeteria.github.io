@@ -1,0 +1,434 @@
+header{
+    width: 100%;
+}
+
+.FondoCafeteria{
+    background-image: url("images/paisaje8.png");
+    background-size: cover;
+}
+
+.encabezado1{
+    background-image: url("images/paisaje9.png");
+    background-size: cover;
+}
+
+.title1{
+    padding: 30px;
+    font-family: cursive;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.texto{
+    padding: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+#colortexto{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#title{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#usuario{
+    text-align: center;
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#contraseña{
+    text-align: center;
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 200px;
+    margin-right: 700px;
+}
+
+#title2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#usuario2{
+    text-align: center;
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#contraseña2{
+    text-align: center;
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    border: grey;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.centrarcarr{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#img1{
+    margin-left: 180px;
+}
+
+#img2{
+    margin-left: 180px;
+}
+
+#img3{
+    margin-left: 180px;
+}
+
+#img4{
+    margin-left: 180px;
+}
+
+.colortext{
+    font-size: 25px;
+    font-family: cursive;
+    color: white;
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    border: gray;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#centrarcard1{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto1{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard2{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto2{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard3{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto3{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard4{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto4{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard5{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto5{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard6{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto6{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard7{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto7{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#centrarcard8{
+    margin-left: 50px;
+    padding: 20px;
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#colortexto8{
+    text-align: center;
+    color: sandybrown;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#Informacion1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#bebidasfrias{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#frappe{
+    margin-left: 500px;
+}
+
+#Informacion2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#bebidascalientes{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#cafecal{
+    margin-left: 500px;
+}
+
+#Informacion3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#Imformacion4{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#Imformacion5{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#postres{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#panestipos{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#desayunos{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#postre{
+    margin-left: 500px;
+}
+
+#panes{
+    margin-left: 500px;
+}
+
+#huevos{
+    margin-left: 30px;
+}
+
+#hotcakes{
+    margin-left: 30px;
+}
+
+#sandwich{
+    margin-left: 30px;
+}
+
+.cardstext{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+}
+
+#fondocard1{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondocard2{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondocard3{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondocard4{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondocard5{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondoboton1{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondoboton2{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondoboton3{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondoboton4{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+#fondoboton5{
+    background-image: url("images/paisajeuwu.png");
+    background-size: cover;
+}
+
+.piedepag{
+    background-image: url("images/paisaje3uwu.png");
+    background-size: cover;
+}
+
+footer{
+    width: 100%;
+}
+
+.pietitulo{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.colortexto{
+    color: black;
+}
+
+.colortexto2{
+    color: black;
+    font-size: 30px;
+}

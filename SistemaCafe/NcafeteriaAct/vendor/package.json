@@ -1,0 +1,26 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "negocio de cafeteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedroadrian20/Cafeteria.github.io.git"
+  },
+  "keywords": [
+    "cafeteria"
+  ],
+  "author": "Pedro am0166653@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedroadrian20/Cafeteria.github.io/issues"
+  },
+  "homepage": "https://github.com/Pedroadrian20/Cafeteria.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1"
+  }
+}

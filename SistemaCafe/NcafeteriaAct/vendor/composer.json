@@ -1,0 +1,8 @@
+{
+    "name": "negocio/cafeteria",
+    "description": "Mi negocio web de cafeteria",
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "twbs/bootstrap": "^4.5"
+    }
+}
