@@ -1,0 +1,9 @@
+{
+    "name": "sistemacafe/1.0",
+    "description": "Negocio de cafereria",
+    "require":{
+        "monolog/monolog": "1.0.*",
+        "twbs/bootstrap": "4.5.2"
+        
+    }
+}
